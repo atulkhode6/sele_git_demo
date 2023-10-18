@@ -27,6 +27,8 @@ time.sleep(2)
 
 drpUse.select_by_value()
 
+drpUse.select_by_value()
 
+drpUse.select_by_value()
 
-
+drpUse.select_by_value()
